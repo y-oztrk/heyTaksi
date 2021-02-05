@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">heyTaksi</string>
+    <string name="telif">Yiğitcan Öztürk</string>
+    <string name="giris_yap">Giriş Yap</string>
+    <string name="email">Email</string>
+    <string name="password">Şifre</string>
+    <string name="forgetps">Şifremi Unuttum</string>
+    <string name="register">Kaydol</string>
+    <string name="againpassword">Şifre Tekrar</string>
+    <string name="reports">Şikayet</string>
+    <string name="geçmiş">Geçmiş Kullanımlar</string>
+</resources>
